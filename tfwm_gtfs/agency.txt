@@ -1,0 +1,20 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+OP6,"Air-Rail Link","https://www.tfwm.org.uk",Europe/London,EN
+OP7,"West Midlands Metro","https://www.tfwm.org.uk",Europe/London,EN
+OP9,"Diamond Bus","https://www.tfwm.org.uk",Europe/London,EN
+OP10,"Flexibus","https://www.tfwm.org.uk",Europe/London,EN
+OP11,"Thandi Red Limited","https://www.tfwm.org.uk",Europe/London,EN
+OP398,"Carolean Coaches","https://www.tfwm.org.uk",Europe/London,EN
+OP14,"Kevs Cars and Coaches","https://www.tfwm.org.uk",Europe/London,EN
+OP100,"National Express West Midlands","https://www.tfwm.org.uk",Europe/London,EN
+OP15,"Select Bus Services","https://www.tfwm.org.uk",Europe/London,EN
+OP16,"LandFlight","https://www.tfwm.org.uk",Europe/London,EN
+OP17,"Stagecoach Midlands","https://www.tfwm.org.uk",Europe/London,EN
+OP18,"Coventry Minibuses","https://www.tfwm.org.uk",Europe/London,EN
+OP4,"National Express Coventry","https://www.tfwm.org.uk",Europe/London,EN
+OP19,"Let's Go","https://www.tfwm.org.uk",Europe/London,EN
+OP20,"Walsall Community Transport","https://www.tfwm.org.uk",Europe/London,EN
+OP24,"Arriva Midlands","https://www.tfwm.org.uk",Europe/London,EN
+OP331,"Arriva Midlands","https://www.tfwm.org.uk",Europe/London,EN
+OP25,"Chaserider","https://www.tfwm.org.uk",Europe/London,EN
+OP26,"Banga Buses","https://www.tfwm.org.uk",Europe/London,EN

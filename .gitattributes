@@ -1,0 +1,2 @@
+tfwm_gtfs/shapes.txt filter=lfs diff=lfs merge=lfs -text
+tfwm_gtfs/stop_times.txt filter=lfs diff=lfs merge=lfs -text
